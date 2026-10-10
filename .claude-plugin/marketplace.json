@@ -1,0 +1,1 @@
+{"$schema":"https://json.schemastore.org/claude-code-marketplace.json","name":"lhg-plugs","owner":{"name":"刘洪光"},"plugins":[{"description":"爆款标题专家：主题/内容→多平台标题公式生成（悬念/数字/对比/痛点公式库）→敏感词与极限词检测→点击率 rubric 打分","name":"lhg-headline","source":"./"}]}
